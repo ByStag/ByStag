@@ -12,6 +12,7 @@ Abant İzzet Baysal Üniversitesi Bilgisayar Mühendisliği bölümünde dördü
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ByStag&show_icons=true&count_private=true&cache_seconds=1800&theme=onedark)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ByStag&theme=onedark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ByStag&layout=compact&theme=onedark)
 
 
 ---
